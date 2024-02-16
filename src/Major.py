@@ -26,3 +26,4 @@ Next i
 Application.ScreenUpdating = True
 Application.EnableEvents = True
 End Sub
+importnumpy as np
